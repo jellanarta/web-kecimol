@@ -9,8 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^39.0.2",
+    "@ckeditor/ckeditor5-react": "^6.1.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@splidejs/react-splide": "^0.6.20",
+    "axios": "^1.5.0",
+    "chart.js": "^4.4.0",
+    "daftar-wilayah-indonesia": "^4.0.1",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
     "react": "^18",
+    "react-calendar": "^4.6.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18",
+    "react-redux": "^8.1.2",
+    "react-share": "^4.4.1",
+    "react-spinners": "^0.13.8",
     "next": "13.5.4"
   },
   "devDependencies": {
